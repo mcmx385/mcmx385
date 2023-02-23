@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **maxtam642@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/max-tam-71221ba8/](https://www.linkedin.com/in/max-tam-71221ba8/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maxtam642/](https://www.linkedin.com/in/maxtam642/)
 
 - ⚡ Fun fact **I like Coding**
 
