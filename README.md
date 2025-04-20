@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [USThing](https://github.com/USThing)
+- 🔭 I’m currently working on Mox Bank
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mcmx385](https://github.com/mcmx385)
 
-- 💬 Ask me about **Python, C++, Javascript, Backend**
+- 💬 Ask me about **Python, C++, Javascript, Kotlin**
 
 - 📫 How to reach me **maxtam642@gmail.com**
 
